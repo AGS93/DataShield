@@ -1,0 +1,25 @@
+C:\Users\Alex\Desktop\DataShield\DataMonitor\bin\Debug\DataMonitor.exe.config
+C:\Users\Alex\Desktop\DataShield\DataMonitor\bin\Debug\DataMonitor.exe
+C:\Users\Alex\Desktop\DataShield\DataMonitor\bin\Debug\DataMonitor.pdb
+C:\Users\Alex\Desktop\DataShield\DataMonitor\obj\Debug\DataMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\DataShield\DataMonitor\obj\Debug\DataMonitor.exe
+C:\Users\Alex\Desktop\DataShield\DataMonitor\obj\Debug\DataMonitor.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\DataMonitor.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\DataMonitor.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\DataMonitor.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.csproj.CopyComplete
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.ClipboardMonitor.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\obj\Debug\DataMonitor.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.dll
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.Imaging.dll
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.Math.dll
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\IFilterTextReader.dll
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.xml
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.Imaging.xml
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\AForge.Math.xml
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\IFilterTextReader.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DataMonitor\bin\Debug\IFilterTextReader.xml

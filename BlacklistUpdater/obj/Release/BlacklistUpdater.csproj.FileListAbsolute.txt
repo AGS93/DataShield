@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\bin\Release\BlacklistUpdater.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\bin\Release\BlacklistUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\bin\Release\BlacklistUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.Password.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.Properties.Resources.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\BlacklistUpdater\obj\Release\BlacklistUpdater.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\bin\Debug\FileOpener.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\bin\Debug\FileOpener.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\bin\Debug\FileOpener.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\obj\Debug\FileOpener.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\obj\Debug\FileOpener.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\obj\Debug\FileOpener.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileOpener\obj\Debug\FileOpener.csprojAssemblyReference.cache

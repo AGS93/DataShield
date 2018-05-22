@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\bin\Debug\FileDecryption.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\bin\Debug\FileDecryption.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\bin\Debug\FileDecryption.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\obj\Debug\FileDecryption.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\obj\Debug\FileDecryption.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\obj\Debug\FileDecryption.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileDecryption\obj\Debug\FileDecryption.csprojAssemblyReference.cache

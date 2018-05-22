@@ -1,0 +1,15 @@
+HxOutlook.exe
+lync.exe
+MessagingApplication.exe
+Microsoft.Notes.exe
+notepad.exe
+OcPubMgr.exe
+OUTLOOK.exe
+psr.exe
+Skype.exe
+SkypeApp.exe
+SkypeHost.exe
+SnippingTool.exe
+SoundRec.exe
+WindowsCamera.exe
+wordpad.exe

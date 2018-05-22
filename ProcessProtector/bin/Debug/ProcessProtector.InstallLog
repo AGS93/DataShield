@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.InstallLog
+   assemblypath = C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.exe
+Installing service Data Monitor...
+Service Data Monitor has been successfully installed.
+Creating EventLog source Data Monitor in log Application...
+Committing assembly 'C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.InstallLog
+   assemblypath = C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\ProcessProtector\bin\Debug\ProcessProtector.exe

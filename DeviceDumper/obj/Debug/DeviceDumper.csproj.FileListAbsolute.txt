@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\bin\Debug\DeviceDumper.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\bin\Debug\DeviceDumper.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\bin\Debug\DeviceDumper.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\obj\Debug\DeviceDumper.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\obj\Debug\DeviceDumper.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceDumper\obj\Debug\DeviceDumper.pdb

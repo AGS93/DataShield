@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\bin\Release\FileEncryption.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\bin\Release\FileEncryption.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\bin\Release\FileEncryption.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.Encryptor.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.Properties.Resources.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\FileEncryption\obj\Release\FileEncryption.csprojAssemblyReference.cache

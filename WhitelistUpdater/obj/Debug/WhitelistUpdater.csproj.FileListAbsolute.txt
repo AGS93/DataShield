@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\bin\Debug\WhitelistUpdater.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\bin\Debug\WhitelistUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\bin\Debug\WhitelistUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.Password.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.Properties.Resources.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\WhitelistUpdater\obj\Debug\WhitelistUpdater.csprojAssemblyReference.cache

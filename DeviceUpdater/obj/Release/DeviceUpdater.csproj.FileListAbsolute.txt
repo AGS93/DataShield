@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\bin\Release\DeviceUpdater.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\bin\Release\DeviceUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\bin\Release\DeviceUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.Password.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.Properties.Resources.resources
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\DeviceUpdater\obj\Release\DeviceUpdater.csprojAssemblyReference.cache

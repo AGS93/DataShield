@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\bin\Release\HwidGenerator.exe.config
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\bin\Release\HwidGenerator.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\bin\Release\HwidGenerator.pdb
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\obj\Release\HwidGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\obj\Release\HwidGenerator.exe
+C:\Users\Alex\Documents\Plymouth University\PRCO304 - Computing Project\Development\Client Application\DataShield\HwidGenerator\obj\Release\HwidGenerator.pdb
